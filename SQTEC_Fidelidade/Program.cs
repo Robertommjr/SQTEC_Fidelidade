@@ -10,6 +10,7 @@ namespace SQTEC_Fidelidade
     {
         static void Main(string[] args)
         {
+            Console.Write("Olá mundo!!!");
         }
     }
 }
